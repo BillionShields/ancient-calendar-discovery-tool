@@ -3,14 +3,14 @@
 This is a free non-commercial tool to help people on a quest of amateur
 ancient calendar discoveries. Using this tool and popular online maps
 you can research and discover ancient calendars. It was first mentioned
-in my book [“How to Rule the World”](book-link)  
+in my book [“How to Rule the World”](http://www.x3em.com/book)  
   
 ![](.//media/image1.jpeg)
 
 # Chrome Extension 
 
 Source code for Ancient Calendars Discovery Tool is in [Chrome
-Extension](chrome-extention) folder. While effort has been made to fox
+Extension](.//Chrome-Extention/) folder. While effort has been made to fix
 all the bugs, this code is as-is with absolutely no warranty. In Chrome
 Browser click “Manage Extensions” and click “Load Unpacked”.
 
@@ -102,18 +102,7 @@ Figure X. Nazca Monkey
 
 ![](.//media/image6.jpeg)
 
-Figure X. Nazca Condor
+Figure X. Nazca Condor 
 
-\<a rel="license"
-href="http://creativecommons.org/licenses/by-nc-sa/4.0/"\>\<img
-alt="Creative Commons License" style="border-width:0"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
-/\>\</a\>\<br /\>\<span xmlns:dct="http://purl.org/dc/terms/"
-href="http://purl.org/dc/dcmitype/InteractiveResource"
-property="dct:title" rel="dct:type"\>Ancient Calendar Discovery
-Tool\</span\> by \<span xmlns:cc="http://creativecommons.org/ns\#"
-property="cc:attributionName"\>Sergey Znutin\</span\> is licensed under
-a \<a rel="license"
-href="http://creativecommons.org/licenses/by-nc-sa/4.0/"\>Creative
-Commons Attribution-NonCommercial-ShareAlike 4.0 International
-License\</a\>.
+
+<br/><br/><br/><br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Ancient Calendar Discovery Tool</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Sergey Znutin</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
